@@ -35,7 +35,7 @@
           </div>
           <div class="collapse navbar-collapse">
                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="index.html">Accueil</a></li>
+                    <li><a href="index.php">Accueil</a></li>
                     <li><a href="punaises.html">Punaises de Lit</a></li>
                     <li><a href="guepes.html">Guêpes et Frelons</a></li>
                     <li><a href="chenilles.html">Chenilles Processionnaires</a></li>
